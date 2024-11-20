@@ -1,0 +1,38 @@
+# Compiled binaries, object files, and build caches
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.pyc
+__pycache__/
+
+# Arduino IDE temporary build output
+*.build/
+*.bld/
+build/
+output/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Large archives or raw report documents (optional)
+*.tmp
+*.bak
