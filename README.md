@@ -60,7 +60,7 @@ The firmware utilizes mathematical offset and remapping to calibrate the compass
 ```text
 .
 ├── firmware/
-│   └── CHT_project.ino      # Main application code
+│   └── Project.ino          # Main application code
 ├── media/                   # Fritzing/Eagle hardware schematics
 └── README.md                # Project documentation (this file)
 ```
