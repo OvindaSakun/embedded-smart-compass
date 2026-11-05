@@ -66,4 +66,4 @@ The firmware utilizes mathematical offset and remapping to calibrate the compass
 ```
 
 ## 🎓 Academic Context
-This hardware and embedded software system was developed as part of the **CSE5015 Computing Project** at **ICBT Campus**. It demonstrates practical application of edge computing, sensor integration, and standalone UI management using the ATmega328P.
+This hardware and embedded software system was developed as part of the **CSE5015 Computing Project** of HD in Network Technology & Cybersecurity.
